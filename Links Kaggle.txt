@@ -1,0 +1,10 @@
+Pedro Buczinski Lages de Carvalho - 12555266
+# Links para os notebooks Kaggle:
+
+Alinha: https://www.kaggle.com/code/pedrobuc/alinha
+
+Classico: https://www.kaggle.com/code/pedrobuc/classico
+
+Convol com imagens reduzidas: https://www.kaggle.com/code/pedrobuc/convol-reduzida
+
+Convol com imagens alinhadas: https://www.kaggle.com/code/pedrobuc/convol-alinhada
