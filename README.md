@@ -15,7 +15,7 @@ All algorithms, implementations, and analyses were created during the course, ei
 
 ## Technologies Used
 
-- Python. C++
+- Python, C++
 - NumPy, OpenCV2, scikit-learn, TensorFlow Keras, Matplotlib, Seaborn
 - Jupyter Notebooks (for prototyping and visualization)
 
