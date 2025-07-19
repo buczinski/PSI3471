@@ -1,9 +1,9 @@
-# Projeto de Classificação de Pistaches
+## Pistachio Classification Project
 
-Este projeto tem como objetivo classificar diferentes tipos de pistaches por meio de técnicas de visão computacional e aprendizado de máquina. A abordagem envolve:
+This project aims to classify different types of pistachios using computer vision and machine learning techniques. The approach involves:
 
-- Pré-processamento de imagens utilizando a biblioteca OpenCV;
-- Treinamento com base em conjuntos de dados limitados, explorando estratégias para lidar com escassez de amostras;
-- Aplicação de algoritmos clássicos de aprendizado de máquina (como SVM, KNN, etc.);
-- Uso de transfer learning com fine-tuning de modelos robustos de redes neurais convolucionais (CNNs) pré-treinadas.
-- O projeto busca comparar o desempenho entre modelos clássicos e redes neurais profundas sob diferentes condições de entrada e pré-processamento.
+Image pre-processing using the OpenCV library;
+Training based on limited datasets, exploring strategies to handle data scarcity;
+Application of classical machine learning algorithms (such as SVM, KNN, etc.);
+Use of transfer learning with fine-tuning of robust pre-trained convolutional neural network (CNN) models.
+The project seeks to compare the performance of classical models and deep neural networks under different input and pre-processing conditions.
