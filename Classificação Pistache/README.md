@@ -1,4 +1,4 @@
-Projeto de Classificação de Pistaches
+# Projeto de Classificação de Pistaches
 
 Este projeto tem como objetivo classificar diferentes tipos de pistaches por meio de técnicas de visão computacional e aprendizado de máquina. A abordagem envolve:
 
